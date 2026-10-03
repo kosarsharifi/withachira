@@ -1,5 +1,5 @@
   // ایجاد یک آبجکت صدا
-    const clickSound = new Audio("https://uploadkon.ir/uploads/764b24_26Bubbles-Sound.mp3");
+    const clickSound = new Audio("https://withachira.ir/files/Bubbles%20Sound.mp3");
     clickSound.preload = "auto"; // پیش‌بارگذاری صدا برای پخش سریع‌تر
 
     // تابع پخش صدا
